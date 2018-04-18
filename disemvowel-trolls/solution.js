@@ -1,5 +1,5 @@
 function disemvowel(str) {
-  /* My crappy ass code */
+  /* My crappy code */
   /*
   str = str.split('');
   for (var i in str) {
@@ -13,6 +13,7 @@ function disemvowel(str) {
   */
 
   /* The optimal solution */
+  console.log(str.replace(/[aeiou]/gi, ''));
   return str.replace(/[aeiou]/gi, '');
 }
 
