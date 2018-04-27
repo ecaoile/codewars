@@ -1,5 +1,5 @@
 #Code Wars Challenge - Indexed Capitalization
-Retrieved from the following URL:
+Retrieved from the following URL: https://www.codewars.com/kata/indexed-capitalization/
 
 ##Description
 Given a string and an array of integers representing indices, capitalize all letters at the given indices.
